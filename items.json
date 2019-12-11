@@ -1,0 +1,60 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Red Ballpark Tee",
+            "price": 2395,
+            "imgName": "baseball_red_cart.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Rabid Biker Tee",
+            "price": 2395,
+            "imgName": "biker_cart.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Give Up the Ghost Tee",
+            "price": 2395,
+            "imgName": "ghost_cart.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Apples and Oranges Tee",
+            "price": 2395,
+            "imgName": "orange_cart.jpg"
+        },
+
+        {
+            "id": 5,
+            "name": "Return Your Carts Tee",
+            "price": 2395,
+            "imgName": "return_carts.jpg"
+        },
+
+        {
+            "id": 6,
+            "name": "Target Tee",
+            "price": 2395,
+            "imgName": "target_cart.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Tricolor Tee",
+            "price": 2395,
+            "imgName": "tricolor_cart.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Topsy Turvey Tee",
+            "price": 2395,
+            "imgName": "upside_down_green.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Skeleton Tee",
+            "price": 2395,
+            "imgName": "skeleton_cart.jpg"
+        }
+
+    ]
+}
